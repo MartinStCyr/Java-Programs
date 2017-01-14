@@ -1,0 +1,1 @@
+Here lies all of my Java personnal projects that ended up not being a 'Hello World' or just a basic try-out of a plugin.
